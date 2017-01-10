@@ -1,4 +1,7 @@
 public class Solution {
+	//Question 4: Median of Two Sorted Arrays {Taken from Leet}
+	//Mafuzal Hoque
+	//This code will be updated. 
 	public static double findMedianSortedArrays(int[] nums1,int[]nums2)
 	{
 		int k=nums1.length+nums2.length;
